@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/pr-atha-m/House_Price_Prediction/blob/main/pictures/housing.jpg" width="300" height="300" />
+  <img src="https://github.com/pr-atha-m/House_Price_Prediction/blob/main/pictures/housing1.jpg">
 </p>
 
 # House_Price_Prediction
